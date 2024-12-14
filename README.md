@@ -75,10 +75,3 @@ Refer to the full code in the repository: [IoT-Based SpO2 and Pulse Oximeter](ht
 ## License
 This project is licensed under the [MIT License](https://github.com/ItzzInfinity/IoT-Based-SpO2-and-Pulse-Oximeter-with-MAX30102/blob/main/LICENSE).
 
----
-
-## Contributions
-Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes.
-
-For any issues, feel free to open an issue in the repository.
-
