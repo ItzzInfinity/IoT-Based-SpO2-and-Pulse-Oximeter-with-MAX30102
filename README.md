@@ -6,10 +6,7 @@
 ![MAX30102](https://img.shields.io/badge/Sensor-MAX30102-red)![Platform](https://img.shields.io/badge/MCU-ESP8266-blue.svg) 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-yellow.svg)
 ![I2C Protocol](https://img.shields.io/badge/protocol-I2C-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-success.svg)
 ![OLED Display](https://img.shields.io/badge/display-SSD1306-orange.svg)
-![Sensor](https://img.shields.io/badge/sensor-MAX30102-red.svg)
-![Difficulty](https://img.shields.io/badge/difficulty-Intermediate-lightgrey.svg)
 ![Project Type](https://img.shields.io/badge/project-IoT-blueviolet.svg)
 ![Made with Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red.svg)
 
